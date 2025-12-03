@@ -1,0 +1,8 @@
+{
+  "name": "SocialStream TR",
+  "description": "Gelişmiş video ve görsel paylaşım platformu. Yükle, etiketle, puan kazan ve canlı odalarda sosyalleş.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
